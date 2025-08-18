@@ -6,5 +6,5 @@ This project aims to analyze customer product reviews to extract actionable insi
 Dataset used- https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023 
 
 Workflow
-1. Sentiment Analysis using VADER, Result- Incorrect labelling of sentiments
-2. Sentiment Analysis using Textblob, Result- Incorrect labelling of sentiment
+1. Sentiment Analysis 
+2. N-Gram Analysis
