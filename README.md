@@ -29,5 +29,5 @@ Workflow
 
 2. Sentiment Analysis
 2.1 Aspect Based Sentiment Analysis
-   
+
 3 LLM based prompt engineering
